@@ -1,50 +1,68 @@
-<h1 align="center">I'm Adel Mohamed</h1>
-<h3 align="center">Software Engineer | .NET Backend Developer</h3>
+<h1 align="center">👋 I'm Adel Mohamed</h1>
+<h3 align="center" style="color: #4CAF50; animation: fadeIn 2s;">Software Engineer | .NET Backend Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adelmohamed25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adelmohamed25/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/adel.mohamed.60272?locale=ar_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adel.mohamed.60272?locale=ar_ar" height="30" width="40" /></a>
-</p>
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  .social-icon:hover {
+    transform: scale(1.2);
+    transition: all 0.3s ease;
+  }
+  .tool-icon {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    transition: all 0.3s ease;
+  }
+  .tool-icon:hover {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 5px #4CAF50);
+  }
+</style>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
-  </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> 
-  </a> 
-</p>
+<div align="center">
+  <h2 style="color: #4CAF50; margin-bottom: 20px;">🌟 Let's Connect 🌟</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/adelmohamed25/" target="_blank" class="social-icon">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+    </a>
+    <a href="https://www.facebook.com/adel.mohamed.60272" target="_blank" class="social-icon">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50"/>
+    </a>
+    <a href="mailto:your.email@example.com" target="_blank" class="social-icon">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50" height="50"/>
+    </a>
+  </p>
+</div>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-mohamed25&label=Profile%20views&color=0e75b6&style=flat" alt="adel-mohamed25" /> </p>
+<h2 align="center" style="color: #4CAF50; margin-top: 30px;">🛠️ Tech Stack</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-mohamed25" alt="adel-mohamed25" /></a> </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" class="tool-icon" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" class="tool-icon" alt=".NET Core" title=".NET Core"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" class="tool-icon" alt="SQL Server" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" class="tool-icon" alt="Redis" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" class="tool-icon" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" class="tool-icon" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" class="tool-icon" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" class="tool-icon" alt="PostgreSQL" title="PostgreSQL"/>
+</div>
 
+<h2 align="center" style="color: #4CAF50; margin-top: 30px;">🏆 GitHub Achievements</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adel-mohamed25&show_icons=true&locale=en&layout=compact" alt="adel-mohamed25" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adel-mohamed25&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="adel-mohamed25" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adel-mohamed25&show_icons=true&locale=en" alt="adel-mohamed25" /></p>
+<h2 align="center" style="color: #4CAF50; margin-top: 30px;">📊 GitHub Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adel-mohamed25&" alt="adel-mohamed25" /></p>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=adel-mohamed25&show_icons=true&theme=dark&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=adel-mohamed25&theme=dark&background=0D1117&stroke=4CAF50&ring=4CAF50&fire=4CAF50&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4CAF50" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adel-mohamed25&layout=compact&theme=dark&bg_color=0D1117&title_color=4CAF50" />
+</div>

@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Adel Mohamed</h1>
-<h3 align="center" style="color: #4CAF50;">Junior .NET Backend Developer | Software Engineer</h3>
+<h3 align="center" style="color: #4CAF50;">Software Engineer | Junior .NET Backend Developer</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=435&lines=I'm+Backend+Developer;.NET+Enthusiast;Passionate+about+Scalable+Systems;Learning+Never+Stops" alt="Typing SVG" />
